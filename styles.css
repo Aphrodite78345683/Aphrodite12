@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(230, 223, 223);
+}
+h1{color:rgb(1, 4, 7);
+    font-size:80px;
+    text-decoration:underline;
+    text-align:center;}
+div{
+    background-color:transparent;
+    height: 50px;
+
+}
+  header{
+      background-image:url("Mythological\ —\ mushi-and-junior_\ \ greek\ mythology\ moodboards_____adobespark.jpg") ;
+      height: 600px;
+      background-size: cover;
+      background-position: center;
+      text-align:center;
+      align-content: center;}
+      a{
+      color: rgb(0, 0, 0);
+      text-align:center;
+      font-size: 50px;
+  }
